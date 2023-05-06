@@ -10,3 +10,11 @@ Signature: 'HCfgnEo8RNYTgcOXafAf11BQQ5LXSvlss0AbnezENbFJQzRl0dJRGOfYbOrOPkb2iPdj
 ```
 
 Same function as https://github.com/BlueWallet/VerifySignature
+
+Use the [chrome-extension branch](https://github.com/hoganri/sigverify/tree/chrome-extension) to add as a Chrome Extension instead of webapp.
+
+```
+npm run build
+Chrome extension => load unpacked
+Select build folder
+```
